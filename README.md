@@ -4,3 +4,5 @@
 [![GitHub stars](https://img.shields.io/github/stars/chuyuewei/Otherworld-Expedition-Launcher)](https://github.com/chuyuewei/Otherworld-Expedition-Launcher/stargazers)
 [![Github All Releases](https://img.shields.io/github/downloads/chuyuewei/Otherworld-Expedition-Launcher/total.svg)](https://github.com/chuyuewei/Otherworld-Expedition-Launcher/releases)
 [![GitHub release](https://img.shields.io/github/v/release/chuyuewei/Otherworld-Expedition-Launcher)](https://github.com/chuyuewei/Otherworld-Expedition-Launcher/releases/latest)
+
+### 目前软件正在制作中
