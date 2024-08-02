@@ -10,4 +10,4 @@
 ---
 
 ### 联系方式
-- [前往我的B站首页]([https://space.bilibili.com/1294602327/])
+- [前往我的B站首页](https://space.bilibili.com/1294602327/)
