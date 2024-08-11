@@ -17,4 +17,4 @@
 ### 联系方式
 - [前往我的B站首页](https://space.bilibili.com/1294602327/)
 - 我的QQ号:3140194376
-- 我的邮箱：chuyuewei@
+- 我的邮箱：chuyuewei@simplified.top
